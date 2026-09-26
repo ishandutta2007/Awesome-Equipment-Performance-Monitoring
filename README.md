@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&amp;logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Equipment-Performance-Monitoring/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Equipment-Performance-Monitoring?style=flat-square" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Equipment-Performance-Monitoring/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Equipment-Performance-Monitoring?style=flat-square" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Equipment-Performance-Monitoring/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Equipment-Performance-Monitoring?style=flat-square" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Equipment-Performance-Monitoring/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Equipment-Performance-Monitoring?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -62,7 +62,7 @@ Below is a curated matrix of top enterprise SaaS platforms, **sorted by Company 
 
 Open-source technologies form the backbone of self-hosted equipment monitoring, time-series storage, edge gateways, and custom OEE dashboards.
 
-Below is a curated index of leading open-source projects, **sorted by GitHub Star Count (descending)**:
+Below is a curated index of leading open-source projects, **sorted by GitHub Stars_Count (descending)**:
 
 | 📦 Repository & Link | ⭐ Star Rating Badge | 📝 Core Capabilities in EPM / IIoT Ecosystem |
 | :--- | :--- | :--- |
@@ -102,7 +102,7 @@ Contributions are welcome and appreciated! Follow these steps to submit addition
 
 1. 🍴 **Fork** this repository.
 2. 📝 Edit `README.md` to add your proposed SaaS or open-source tool.
-3. 📌 Follow the table format (include specific pricing, free limits, valuation/revenue, and star badges).
+3. 📌 Follow the table format (include specific pricing, free limits, valuation/revenue, and Stars_Badges).
 4. 🚀 Submit a **Pull Request** with a clear explanation of why the addition is valuable.
 
 See [Awesome List Guidelines](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) for quality standards.
